@@ -22,7 +22,7 @@ class BankAccount{
     }
     public function printInfo(){
         echo "Owner: ".$this->owner."<br>";
-        echo "Bank balance: ".$this->balance."<br>";
+        echo "Bank balance: ".$this->balance." Breini<br>";
     }
 }
 ?>
